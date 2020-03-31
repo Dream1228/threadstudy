@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0fd87cd9-fd32-4d18-aeff-3cc29c858e8d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\apache-maven-3.6.1\.m2\repository" />
+        <option name="mavenHome" value="D:/apache-maven-3.6.1" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1XvfuB1XRkAPUDrigzFIBrPCknL" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.dream" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.dream" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SystemDemo">
+    <configuration name="Demo01_WaitNotify" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dream.thread.Demo01_WaitNotify" />
+      <module name="jvm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dream.thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo02_WaitNotify3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dream.thread.Demo02_WaitNotify3" />
+      <module name="jvm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dream.thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo03_LockSupport" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dream.thread.Demo03_LockSupport" />
+      <module name="jvm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dream.thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo04_CAS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dream.thread.Demo04_CAS" />
+      <module name="jvm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dream.thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SystemDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dream.system.SystemDemo" />
+      <module name="jvm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dream.system.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SystemDemo" />
+        <item itemvalue="Application.Demo04_CAS" />
+        <item itemvalue="Application.Demo03_LockSupport" />
+        <item itemvalue="Application.Demo02_WaitNotify3" />
+        <item itemvalue="Application.Demo01_WaitNotify" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0fd87cd9-fd32-4d18-aeff-3cc29c858e8d" name="Default Changelist" comment="" />
+      <created>1581931708260</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581931708260</updated>
+      <workItem from="1581931711545" duration="2587000" />
+      <workItem from="1582191033236" duration="8016000" />
+      <workItem from="1582271592676" duration="9000" />
+      <workItem from="1582693932579" duration="3238000" />
+      <workItem from="1583212416655" duration="9547000" />
+      <workItem from="1583390695619" duration="11000" />
+      <workItem from="1584077676550" duration="161000" />
+      <workItem from="1584078441348" duration="3830000" />
+      <workItem from="1584336284448" duration="8000" />
+      <workItem from="1585625881730" duration="1756000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585626361219">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="414" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1585626361219" />
+    <state x="740" y="244" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1581932374335">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="244" key="#com.intellij.ide.macro.MacrosDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1581932374335" />
+    <state x="765" y="249" key="#com.intellij.ide.util.MemberChooser" timestamp="1583290111484">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="765" y="249" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1583290111484" />
+    <state x="806" y="429" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1585625890255">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="806" y="429" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1585625890255" />
+    <state x="740" y="294" key="FileChooserDialogImpl" timestamp="1585634475425">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="294" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1585634475425" />
+    <state width="1875" height="286" key="GridCell.Tab.0.bottom" timestamp="1585634536933">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1875" height="286" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1585634536933" />
+    <state width="1875" height="286" key="GridCell.Tab.0.center" timestamp="1585634536933">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1875" height="286" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1585634536933" />
+    <state width="1875" height="286" key="GridCell.Tab.0.left" timestamp="1585634536933">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1875" height="286" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1585634536933" />
+    <state width="1875" height="286" key="GridCell.Tab.0.right" timestamp="1585634536933">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1875" height="286" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1585634536933" />
+    <state width="1875" height="413" key="GridCell.Tab.1.bottom" timestamp="1585634536930">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1875" height="413" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1585634536930" />
+    <state width="1875" height="413" key="GridCell.Tab.1.center" timestamp="1585634536930">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1875" height="413" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1585634536930" />
+    <state width="1875" height="413" key="GridCell.Tab.1.left" timestamp="1585634536930">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1875" height="413" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1585634536930" />
+    <state width="1875" height="413" key="GridCell.Tab.1.right" timestamp="1585634536930">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1875" height="413" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1585634536930" />
+    <state x="461" y="181" key="SettingsEditor" timestamp="1585625900559">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="461" y="181" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1585625900559" />
+    <state x="640" y="363" key="com.intellij.ide.util.TipDialog" timestamp="1584336284585">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="640" y="363" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1584336284585" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1583243222284">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1583243222284" />
+  </component>
+</project>
